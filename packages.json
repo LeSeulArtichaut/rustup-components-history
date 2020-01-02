@@ -1,0 +1,17 @@
+[
+"lldb-preview",
+"cargo",
+"rust-docs",
+"rls",
+"llvm-tools-preview",
+"clippy",
+"miri",
+"rustc-dev",
+"rustc",
+"rust-mingw",
+"rust-analysis",
+"rustfmt",
+"rust",
+"rust-std",
+"rust-src"
+]
